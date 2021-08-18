@@ -1,0 +1,23 @@
+section.skillsdt{
+	float:left;
+}
+
+section.skillsdt h3{
+	color: #4662ff;
+}
+body, h1, h2{
+	font-family: 'Noto Sans JP', sans-serif;
+}
+h1{
+	font-size: 52px;
+	line-height: 3.5rem;
+}
+h2{
+	font-size: 41px;
+}
+.text-small-small{
+	font-size: 2rem;
+}
+.subheading{
+	font-size: 1rem;
+}
